@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_current"
+            android:icon="@drawable/ic_keyboard_current_24dp"
+            android:checked="true"
+            android:title="Current" />
+        <item
+            android:id="@+id/nav_upcoming"
+            android:icon="@drawable/ic_fast_forward_black_24dp"
+            android:title="Upcoming" />
+        <item
+            android:id="@+id/nav_past"
+            android:icon="@drawable/ic_access_alarm_black_24dp"
+            android:title="Past Opportunities" />
+        <item
+            android:id="@+id/nav_interested"
+            android:icon="@drawable/ic_check_circle_black_24dp"
+            android:title="Interested" />
+        <item
+            android:id="@+id/nav_thrash"
+            android:icon="@drawable/ic_delete_forever_black_24dp"
+            android:title="Thrash" />
+        <item
+            android:id="@+id/nav_planning"
+            android:icon="@drawable/ic_description_black_24dp"
+            android:title="Planning" />
+    </group>
+</menu>

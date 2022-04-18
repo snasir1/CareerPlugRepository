@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/discover"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Discover"/>
+
+    <item
+        android:id="@+id/interests"
+        android:icon="@drawable/ic_bookmark_black_24dp"
+        android:title="Interests"/>
+
+    <item
+        android:id="@+id/filter_event"
+        android:icon="@drawable/ic_filter_black_24dp"
+        android:title="Filter"/>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_edit_black_24dp"
+        android:title="Profile"/>
+
+
+</menu>

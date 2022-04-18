@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkblue">#1a237e</color>
+    <color name="lightgreen">#64dd17</color>
+    <color name="phonegreen">#2e7d32</color>
+    <color name="lightblue">#87CEEB</color>
+    <color name="login_button_blue_color">#3B5998</color>
+    <color name="defaultbgcolor">#EEEEEE</color>
+    <color name="gray">#E8E8E8</color>
+    <color name="defaulttextviewcolor">#808080</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="purple">#661FFF</color>
+    <color name="darkthemeblack">#343332</color>
+    <color name="darkthemelight">#686868</color>
+    <color name="red">#FF0000</color>
+</resources>
