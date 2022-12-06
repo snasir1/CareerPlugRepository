@@ -1,16 +1,10 @@
 package com.mycareerplug.iamokah.mycareerplug;
 
 import android.content.Context;
-import android.support.design.widget.FloatingActionButton;
 import android.view.View;
 import android.widget.TextView;
 
-import com.google.android.youtube.player.YouTubeInitializationResult;
-import com.google.android.youtube.player.YouTubePlayer;
-import com.google.android.youtube.player.YouTubePlayerView;
 import com.huxq17.swipecardsview.BaseCardAdapter;
-
-import org.w3c.dom.Text;
 
 import java.util.List;
 

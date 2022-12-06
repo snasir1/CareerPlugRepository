@@ -15,6 +15,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "16774465810-0fekkdh06u2irm4qnsrd0tsmb68qc18j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycareerplug.iamokah.mycareerplug",
+            "certificate_hash": "535fe4121781ce88ed4a774e609cc3bed365b5f8"
+          }
+        },
+        {
+          "client_id": "16774465810-dmnuh4fc81lrjjro9a2preue7sp80mj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycareerplug.iamokah.mycareerplug",
+            "certificate_hash": "c36dec8fdde4715e0a571b5dd006a22b27cd999e"
+          }
+        },
+        {
           "client_id": "16774465810-oe2vngrqi0a3pf7ca1440e1rn17lgmrj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -29,24 +45,17 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCNknm_j4m8qTTHPTKLwzZQu2vFXsHLPic"
+          "current_key": "AIzaSyBqfaTHcc9erP4MuFprOgvhLblubxeJksI"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "16774465810-so3k6o59icfr5pa54tunj8l7ekd6ec58.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }

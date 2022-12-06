@@ -1,29 +1,13 @@
 package com.mycareerplug.iamokah.mycareerplug;
 
-import android.content.Context;
-import android.content.Intent;
-import android.content.SharedPreferences;
-import android.preference.PreferenceManager;
-import android.support.annotation.NonNull;
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.util.Log;
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
+
 import android.widget.ListView;
 
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
 
-import java.lang.reflect.Type;
 import java.util.ArrayList;
-
-import static com.mycareerplug.iamokah.mycareerplug.CreateProfile.CREATEPROFILE_PREF;
-import static com.mycareerplug.iamokah.mycareerplug.CreateProfile.PREF_GRADE_LEVEL;
-import static com.mycareerplug.iamokah.mycareerplug.CreateProfile.PREF_INTEREST;
 
 public class listview_activity extends AppCompatActivity {
 
